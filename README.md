@@ -1,5 +1,5 @@
-# Project Data Mining 2
-# DataMining2
+
+# Data Mining 2 - Project
 **In collaboration with con Mario Bianchi e Giuseppe Milazzo**
 
 Data Mining: Advanced Topics and Applications
